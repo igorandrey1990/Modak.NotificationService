@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modak.NotificationServiceTest", "Modak.NotificationServiceTest.csproj", "{56509FC2-03D5-4C69-BD28-A65E7FB33254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56509FC2-03D5-4C69-BD28-A65E7FB33254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56509FC2-03D5-4C69-BD28-A65E7FB33254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56509FC2-03D5-4C69-BD28-A65E7FB33254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56509FC2-03D5-4C69-BD28-A65E7FB33254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF156C9A-2032-4005-93EE-36818D8FCEE6}
+	EndGlobalSection
+EndGlobal
